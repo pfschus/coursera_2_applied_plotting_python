@@ -1,5 +1,7 @@
 # Reading assignment: Graphics Lies, Misleading Visuals
 
+Cairo, A. (2015). Graphics lies, misleading visuals. In New Challenges for Data Design (pp. 103-116). Springer London.
+
 ## Introduction
 
 * Lie factor = size of effect shown in the graphic / size of effect in data. 1.0 = accurate figure.
