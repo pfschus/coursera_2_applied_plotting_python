@@ -9,3 +9,6 @@ University of Michigan
 # Week 1: Principles of Information Visualization
 
 * [Reading assignment on misleading graphics](week_1/reading_assignment.md)
+* [Assignment](week_1/assignment1.md) to evaluate a misleading graphic
+
+# Week 2: Basic Charting
