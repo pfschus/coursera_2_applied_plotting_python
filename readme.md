@@ -36,3 +36,17 @@ University of Michigan
     * Final figure:
     
 ![Assignment 3](week_3/bar_chart.png)
+
+# Week 4: Applied Visualizations
+
+* [Notes](week_4/Week4_applied_visualizations.ipynb)
+    * Plotting directly from a `pandas DataFrame`.
+    * `kind` input to change plot type
+    * Seaborn, `jointplot`, violin plots
+* [Assignment](week_4/Assignment4.ipynb)
+    * Create a custom graphic on UM vs. MSU football. Data taken from Wikipedia
+    * Identify coach eras, plot individual years and average by coach.
+    * Add interactivity with picker to get coach name
+    * Final figure:
+    
+![Assignment 4](week_4/MSU_vs_UM.png)
