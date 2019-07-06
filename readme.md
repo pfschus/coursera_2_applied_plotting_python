@@ -12,3 +12,13 @@ University of Michigan
 * [Assignment](week_1/assignment1.md) to evaluate a misleading graphic
 
 # Week 2: Basic Charting
+
+* [Notes](week_2/Week2.ipynb)
+    * `matplotlib` architecture
+    * Scatterplots, line plots, bar charts
+    * Removing lines, changing style, "dejunkifying" a figure
+* [Assignment](week_2/Assignment2.ipynb)
+    * Creating a figure of highs and lows in Michigan
+    * Final figure:
+    
+![Assignment 2](week_2/temperatures.png)
