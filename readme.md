@@ -22,3 +22,17 @@ University of Michigan
     * Final figure:
     
 ![Assignment 2](week_2/temperatures.png)
+
+# Week 3: Charting Fundamentals
+
+* [Notes](week_3/Week3_charting_fundamentals.ipynb)
+    * Subplots, `sharex`, `sharey`, grids
+    * Histogram, sampling, box plot
+    * GridSpec layout, inset axes
+    * Animation, interactivity
+* [Assignment](week_3/Assignment3.ipynb): Building a custom visualization
+    * Color code the bars to represent the likelihood that a given y-value is contained in that bar, subject to uncertainty on the bar height
+    * Three options of difficulty
+    * Final figure:
+    
+![Assignment 3](week_3/bar_chart.png)
